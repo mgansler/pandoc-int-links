@@ -1,5 +1,7 @@
 #Today
 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, dolore, illo. Fugit, vero dicta harum quisquam dolor voluptatem rem inventore aperiam? Deleniti nostrum, doloribus ab ad atque eum deserunt dolore?[@rfc1]
+
 Works:
 : [This](#wonderful) shoud link to wonderful.
 
@@ -21,4 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. At veritatis temporibu
 #day
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto doloribus voluptates laudantium totam, sunt perspiciatis nobis repudiandae, nisi quas molestiae temporibus qui rem iure architecto rerum? Architecto, quaerat nemo perspiciatis.
+
+#Bibliography
 
